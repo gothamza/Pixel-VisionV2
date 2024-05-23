@@ -28,11 +28,11 @@ The app has a page for running chat-based models and also one for nultimodal mod
 Before running the app, ensure you have Python installed on your machine. Then, clone this repository and install the required packages using pip:
 
 ```bash
-git clone https://github.com/THINKAI-MOROCCO/Pixel-Vision.git
+git clone https://github.com/gothamza/Pixel-VisionV2.git
 ```
 
 ```bash
-cd ollama_streamlit_demos
+cd Pixel-Vision
 ```
 
 ```bash
