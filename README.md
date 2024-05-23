@@ -40,7 +40,9 @@ pip install -r requirements.txt
 ```
 ```bash
 ollama pull rohithbojja/llava-med-v1.6:latest
+```
 or
+```bash
 ollama run rohithbojja/llava-med-v1.6:latest
 ```
 ## Usage
