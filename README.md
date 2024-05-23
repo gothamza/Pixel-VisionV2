@@ -51,16 +51,7 @@ Navigate to the URL provided by Streamlit in your browser to interact with the a
 
 **NB: Make sure you have downloaded [Ollama](https://ollama.com/) to your system.**
 
-## Contributing
 
-Interested in contributing to this app?
-
-- Great!
-- I welcome contributions from everyone.
-
-Got questions or suggestions?
-
-- Feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
 
