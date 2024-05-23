@@ -39,6 +39,8 @@ cd Pixel-Vision
 pip install -r requirements.txt
 ```
 ```bash
+ollama pull rohithbojja/llava-med-v1.6:latest
+or
 ollama run rohithbojja/llava-med-v1.6:latest
 ```
 ## Usage
