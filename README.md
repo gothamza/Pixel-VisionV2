@@ -38,7 +38,9 @@ cd Pixel-Vision
 ```bash
 pip install -r requirements.txt
 ```
-
+```bash
+ollama run rohithbojja/llava-med-v1.6:latest
+```
 ## Usage
 
 To start the app, run the following command in your terminal:
